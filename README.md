@@ -13,7 +13,7 @@
 - ✅ Core implementation: `lux/node/vms/kmsvm/` (Go)
 - ✅ TFHE library: `github.com/luxfi/tfhe` (Go)
 - ✅ Post-quantum: ML-KEM (FIPS 203) via `github.com/luxfi/crypto`
-- ✅ NO code derived from Zama threshold or tfhe-rs
+- ✅ NO code derived from Lux Industries threshold or lux-fhe
 - ✅ Protected by Lux Industries patent portfolio
 
 ---
